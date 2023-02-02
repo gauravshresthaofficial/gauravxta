@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauravxta
 - 👀 I’m interested in Problem solving
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning DSA in Java language
 - 📫 You can reach me through insta @gaurav__shrestha or mail me at imgauravshrestha@gmail.com
 
 <!---
